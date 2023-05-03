@@ -59,7 +59,7 @@ body {
 	
 }
 .container-france {
-    background-image: url("france.jpg");
+    background-image: url("image/france.jpg");
 	background-size: 100%;
     padding: 1em;
     display: flex;
@@ -70,7 +70,7 @@ body {
 	color: #202020;
 }
 .container-italy {
-	background-image: url("italie.jpg");
+	background-image: url("image/italie.jpg");
 	background-size: 100%;
     padding: 1em;
     display: flex;
@@ -81,7 +81,7 @@ body {
 	color: #009246; 
 }
 .container-angleterre {
-	background-image: url("Angleterre.png");
+	background-image: url("image/Angleterre.png");
 	background-size: 100%;
     padding: 1em;
     display: flex;
@@ -92,7 +92,7 @@ body {
 	color: #202020; 
 }
 .container-Etats-unis {
-	background-image: url("etats.jpg");
+	background-image: url("image/etats.jpg");
 	background-size: 100%;
     padding: 1em;
     display: flex;
@@ -103,7 +103,7 @@ body {
 	color: #202020; 
 }
 .container-Canada{
-	background-image: url("canada.png");
+	background-image: url("image/canada.png");
 	background-size: 100%;
     padding: 1em;
     display: flex;
@@ -114,7 +114,7 @@ body {
 	color: #202020; 
 }
 .container-Espagne{
-	background-image: url("espagne.png");
+	background-image: url("image/espagne.png");
 	background-size: 100%;
     padding: 1em;
     display: flex;
