@@ -70,8 +70,7 @@ body {
 	color: #202020;
 }
 .container-italy {
-	background-image: url("image/italie.jpg");
-	background-size: 100%;
+	background-image: url("image/Italie.jpg");
     padding: 1em;
     display: flex;
     flex-direction: column;
